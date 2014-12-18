@@ -6,7 +6,7 @@ date:   2014-12-17
 categories: jekyll update
 ---
 
-![Market](images/us-commercial-service.png)
+![Market]({{ site.baseurl }}/images/us-commercial-service.png)
 
 #Country Commercial Guide for Argentina
 
